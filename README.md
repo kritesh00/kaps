@@ -1,7 +1,7 @@
 
-# Kaps - Your Personal Savings Tracker for Students (Idea/prototype)
+# Kasp - Your Personal Savings Tracker for Students (Idea/prototype)
 ### Overview
-Welcome to Kaps, the ultimate solution for students to effortlessly track their saving expenses and pocket money. Kaps is a user-friendly website designed to help students manage their finances effectively, providing insights into spending habits, savings goals, and pocket money allocations.
+Welcome to Kasp, the ultimate solution for students to effortlessly track their saving expenses and pocket money. Kaps is a user-friendly website designed to help students manage their finances effectively, providing insights into spending habits, savings goals, and pocket money allocations.
 
 ### Features
 1. Expense Tracking
