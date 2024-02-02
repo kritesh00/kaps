@@ -24,7 +24,7 @@ Prerequisites
 Web browser (Chrome, Firefox, Safari, or Edge)
 Internet connection
 Installation
-Clone the repository: git clone https://github.com/your-username/kaps.git
+Clone the repository: git clone https://github.com/kritesh00/kaps.git
 
 ### Usage
 Sign Up or Log In: Create an account or log in if you're an existing user.
