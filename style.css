@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #96f7ab;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #ffffff;
+  width: 878px;
+  height: 1024px;
+  position: absolute;
+  left: 284px;
+  top: 0px;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.kasp {
+  color: #ff0000;
+  text-align: center;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 100px;
+  font-weight: 600;
+  font-style: italic;
+  position: absolute;
+  left: 94px;
+  top: 108px;
+  width: 628px;
+  height: 168px;
+}
+.welcome {
+  color: #ff0000;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 441px;
+  top: 227px;
+  width: 562px;
+  height: 71px;
+}
+.user-login {
+  color: #ff0000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  position: absolute;
+  left: 430px;
+  top: 312px;
+  width: 628px;
+  height: 60px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2 {
+  background: #ffffff;
+  width: 758px;
+  height: 92px;
+  position: absolute;
+  left: 350px;
+  top: 390px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-3 {
+  background: #ffffff;
+  width: 758px;
+  height: 92px;
+  position: absolute;
+  left: 350px;
+  top: 514px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.username {
+  color: #898484;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 365px;
+  top: 418px;
+}
+.username input{
+    color: #898484;
+    text-align: center;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+  border: 0;
+  border-radius: 25px;
+  cursor: pointer;
+    
+}
+.password {
+  color: #898484;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 373px;
+  top: 528px;
+  width: 212px;
+  height: 32px;
+}
+.password input {
+    color: #898484;
+    text-align: center;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+  border:0;
+  border-radius: 25px;
+  cursor: pointer;
+  
+  
+}
+.forgotten-username-or-password {
+  color: #ff0000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 609px;
+  top: 638px;
+  width: 528px;
+  height: 36px;
+  cursor: pointer;
+}
+.rectangle-4 {
+  background: #ff0000;
+  width: 758px;
+  height: 90px;
+  position: absolute;
+  left: 350px;
+  top: 748px;
+}
+.login {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 417px;
+  top: 770px;
+  width: 654px;
+  height: 46px;
+}
+.login a{
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inter-Bold", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.create-one {
+  color: #ff0000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 485px;
+  top: 884px;
+  width: 487px;
+  height: 86px;
+}
+.create-one a {
+    color: #ff0000;
+    text-align: center;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-decoration: none;
+  }

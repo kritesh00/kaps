@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #96f7ab;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-5 {
+  background: #ffffff;
+  width: 876px;
+  height: 1024px;
+  position: absolute;
+  left: 280px;
+  top: 0px;
+}
+.sign-up {
+  color: #ff0000;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 460px;
+  top: 37px;
+  width: 508px;
+  height: 107px;
+}
+.rectangle-6 {
+  background: #ffffff;
+  width: 758px;
+  height: 92px;
+  position: absolute;
+  left: 335px;
+  top: 144px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-7 {
+  background: #ffffff;
+  width: 758px;
+  height: 92px;
+  position: absolute;
+  left: 335px;
+  top: 256px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-8 {
+  background: #fffefe;
+  width: 758px;
+  height: 92px;
+  position: absolute;
+  left: 335px;
+  top: 367px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-9 {
+  background: #ff0000;
+  width: 758px;
+  height: 107px;
+  position: absolute;
+  left: 335px;
+  top: 494px;
+}
+.join-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 500px;
+  top: 525px;
+  width: 405px;
+  height: 46px;
+}
+.join-us a{
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inter-Bold", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.email {
+  color: #898484;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 335px;
+  top: 173px;
+  width: 353px;
+  height: 63px;
+}
+.email input{
+    color: #898484;
+    text-align: center;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    border: 0;
+   border-radius: 25px;
+   cursor: pointer;
+}
+.create-password {
+  color: #898484;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 335px;
+  top: 267px;
+  width: 295px;
+  height: 52px;
+}
+.create-password input{
+    color: #898484;
+    text-align: center;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    border: 0;
+   border-radius: 25px;
+   cursor: pointer;
+}
+.confirm-password {
+  color: #898484;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 339px;
+  top: 369px;
+  width: 312px;
+  height: 61px;
+}
+.confirm-password input {
+    color: #898484;
+    text-align: center;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+   border: 0;
+   border-radius: 25px;
+   cursor: pointer;
+}
+
